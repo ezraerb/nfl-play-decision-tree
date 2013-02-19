@@ -1,0 +1,44 @@
+This file describes NFLdecisionTree. It creates decision trees to classify situations within NFL football games, and displays the plays historically called in those situations given a set of opponents.
+
+Copyright (C) 2013   Ezra Erb
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+I'd appreciate a note if you find this program useful or make updates. Please contact me through LinkedIn (my profile also has a link to the code depository)
+
+This program builds and outputs a decision tree for situation based
+NFL play calling. Offensive play calling depends on the situation 
+faced by the team, often called "situational football". The significant factors influencing calls were statistically analyzed in this paper:
+ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2861879/ 
+
+The results will be familiar to NFL fans:
+1.	Down
+2.	Distance needed
+3.	Location on field: within 10 yards of OWN end zone, within 10 yards of other end zone, middle (results showed no bias outside the red zones).
+4.	Whether a team is in the two minute drill or not (after the two minute warning in either half)
+5.	Score differential: down more than 14 points, down 14 to 7 points, down 7 or less, even, up 7 or less, up 7 to 14 points, up over 14 points
+These categories are used to build a classic information gain ratio based decision tree.
+
+All NFL game statistical analysis faces the severe problem of lack of data. Teams do not play each other often enough, with enough plays per game, to generate enough data for meaningful situational statistics. Real NFL teams solve this issue through a subset of the coaching staff called the Quality Control Department. 
+
+Any NFL team can request film on any NFL game. Quality Control decides which film is worthy of study for a given upcomming game, and breaks the film into individual plays. In general, past games against a given opponent are analyzed, along with their team against similiar opponents, and teams similar to them against their next opponent. This provides a much wider range of data, at the cost of possible meaningless outlyers.
+
+This program takes a similar approach. To run it, specify the team and its opponent, along with similar teams to both. Selection of the similar teams is one of the deep arts of football coaching and can't be automated.
+
+WARNING: This software's output has big limitations compared to real coaching. NFL coaches dynamically update their playcalling based on past results within a game, which this code does not handle. It also does not handle the detailed analysis of particular players as they move from team to team done by most Quality Control departments.
+
+This code was written for Windows, but should work with minor edits 
+(file name conventions and the like) on other platforms.
+
+Installation instructions:
+1. Create a directory.
+2. Create the subdirectory 'Data'
+3. Copy source files to the directory and compile.
+4. Download play data from this website to the Data directory:
+http://www.advancednflstats.com/2010/04/play-by-play-data.html
+5. Rename 2012_nfl_pbp_data_reg_season.csv to 2012_nfl_pbp_data.csv
+6. Run the program as DecisionTree OUR_TEAM OPPONENT [-u] [SIMILIAR TO OUR TEAM] [-o] [SIMILIAR TO OPPONENT]. Resulting tree will appear in the file result.txt
