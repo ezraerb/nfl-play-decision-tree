@@ -1,0 +1,336 @@
+Us:NE Opponent: NYJ Similiar to Other:MIA BUF 
+Split: time_remaining
+Value:Outside two minute warning
+| Split: field_location
+| Value:backed up, own red zone
+| | Split: distance_needed
+| | Value:over twenty yards
+| | | Short Pass Middle: pct of category:1000 pct of all type plays:5 avg dist:5 dist var:0 Turnover pct:0
+| | Value:ten to twenty yards
+| | | Run Left: pct of category:333 pct of all type plays:8 avg dist:1 dist var:0 Turnover pct:0
+| | | Short Pass Right: pct of category:166 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+| | | Short Pass Middle: pct of category:166 pct of all type plays:5 avg dist:0 dist var:0 Turnover pct:0
+| | | Deep Pass Right: pct of category:166 pct of all type plays:20 avg dist:0 dist var:0 Turnover pct:0
+| | | Punt: pct of category:166 pct of all type plays:13 avg dist:38 dist var:0 Turnover pct:0
+| | Value:four to ten yards
+| |   Split: down_number
+| |   Value:1
+| |   | Run Left: pct of category:111 pct of all type plays:8 avg dist:0 dist var:0 Turnover pct:0
+| |   | Run Up Middle: pct of category:55 pct of all type plays:8 avg dist:3 dist var:0 Turnover pct:0
+| |   | Run Right: pct of category:55 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+| |   | Short Pass Right: pct of category:277 pct of all type plays:24 avg dist:8 dist var:7 Turnover pct:0
+| |   | Short Pass Middle: pct of category:166 pct of all type plays:15 avg dist:15 dist var:1 Turnover pct:0
+| |   | Short Pass Left: pct of category:277 pct of all type plays:21 avg dist:7 dist var:6 Turnover pct:0
+| |   | Deep Pass Left: pct of category:55 pct of all type plays:21 avg dist:99 dist var:0 Turnover pct:0
+| |   Value:2
+| |   | Run Right: pct of category:200 pct of all type plays:4 avg dist:6 dist var:0 Turnover pct:0
+| |   | Short Pass Right: pct of category:200 pct of all type plays:4 avg dist:7 dist var:0 Turnover pct:0
+| |   | Short Pass Middle: pct of category:200 pct of all type plays:5 avg dist:15 dist var:0 Turnover pct:0
+| |   | Short Pass Left: pct of category:400 pct of all type plays:8 avg dist:1 dist var:1 Turnover pct:500
+| |   Value:3
+| |     Short Pass Left: pct of category:1000 pct of all type plays:4 avg dist:6 dist var:0 Turnover pct:0
+| Value:between red zones
+| | Split: distance_needed
+| | Value:over twenty yards
+| | | Split: down_number
+| | | Value:1
+| | | | Run Up Middle: pct of category:90 pct of all type plays:8 avg dist:6 dist var:0 Turnover pct:0
+| | | | Run Right: pct of category:90 pct of all type plays:4 avg dist:5 dist var:0 Turnover pct:0
+| | | | Short Pass Right: pct of category:454 pct of all type plays:24 avg dist:4 dist var:4 Turnover pct:0
+| | | | Short Pass Middle: pct of category:90 pct of all type plays:5 avg dist:0 dist var:0 Turnover pct:0
+| | | | Short Pass Left: pct of category:181 pct of all type plays:8 avg dist:-2 dist var:2 Turnover pct:0
+| | | | Deep Pass Right: pct of category:90 pct of all type plays:20 avg dist:81 dist var:0 Turnover pct:0
+| | | Value:2
+| | | | Run Left: pct of category:111 pct of all type plays:4 avg dist:8 dist var:0 Turnover pct:0
+| | | | Run Up Middle: pct of category:111 pct of all type plays:8 avg dist:11 dist var:0 Turnover pct:0
+| | | | Run Right: pct of category:111 pct of all type plays:4 avg dist:12 dist var:0 Turnover pct:0
+| | | | Short Pass Right: pct of category:111 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+| | | | Short Pass Middle: pct of category:222 pct of all type plays:10 avg dist:4 dist var:4 Turnover pct:0
+| | | | Short Pass Left: pct of category:333 pct of all type plays:12 avg dist:8 dist var:1 Turnover pct:0
+| | | Value:3
+| | | | Short Pass Middle: pct of category:333 pct of all type plays:10 avg dist:7 dist var:7 Turnover pct:0
+| | | | Short Pass Left: pct of category:333 pct of all type plays:8 avg dist:2 dist var:2 Turnover pct:0
+| | | | Deep Pass Middle: pct of category:333 pct of all type plays:44 avg dist:9 dist var:9 Turnover pct:0
+| | | Value:4
+| | |   Field Goal Attempt: pct of category:500 pct of all type plays:54 avg dist:43 dist var:1 Turnover pct:0
+| | |   Punt: pct of category:500 pct of all type plays:26 avg dist:40 dist var:4 Turnover pct:0
+| | Value:ten to twenty yards
+| | | Split: down_number
+| | | Value:1
+| | | | Run Up Middle: pct of category:142 pct of all type plays:17 avg dist:4 dist var:1 Turnover pct:0
+| | | | Run Right: pct of category:142 pct of all type plays:9 avg dist:5 dist var:5 Turnover pct:0
+| | | | Short Pass Right: pct of category:214 pct of all type plays:14 avg dist:9 dist var:6 Turnover pct:0
+| | | | Short Pass Middle: pct of category:214 pct of all type plays:15 avg dist:2 dist var:8 Turnover pct:0
+| | | | Short Pass Left: pct of category:214 pct of all type plays:12 avg dist:10 dist var:4 Turnover pct:0
+| | | | Deep Pass Middle: pct of category:71 pct of all type plays:22 avg dist:0 dist var:0 Turnover pct:0
+| | | Value:2
+| | | | Run Left: pct of category:104 pct of all type plays:21 avg dist:4 dist var:1 Turnover pct:0
+| | | | Run Up Middle: pct of category:62 pct of all type plays:26 avg dist:3 dist var:3 Turnover pct:0
+| | | | Run Right: pct of category:83 pct of all type plays:19 avg dist:4 dist var:1 Turnover pct:0
+| | | | Short Pass Right: pct of category:187 pct of all type plays:43 avg dist:9 dist var:7 Turnover pct:0
+| | | | Short Pass Middle: pct of category:208 pct of all type plays:52 avg dist:6 dist var:10 Turnover pct:100
+| | | | Short Pass Left: pct of category:229 pct of all type plays:46 avg dist:5 dist var:4 Turnover pct:0
+| | | | Deep Pass Right: pct of category:20 pct of all type plays:20 avg dist:31 dist var:0 Turnover pct:0
+| | | | Deep Pass Middle: pct of category:20 pct of all type plays:22 avg dist:26 dist var:0 Turnover pct:0
+| | | | Deep Pass Left: pct of category:83 pct of all type plays:86 avg dist:14 dist var:17 Turnover pct:0
+| | | Value:3
+| | | | Run Left: pct of category:41 pct of all type plays:4 avg dist:7 dist var:0 Turnover pct:0
+| | | | Run Up Middle: pct of category:41 pct of all type plays:8 avg dist:2 dist var:0 Turnover pct:0
+| | | | Short Pass Right: pct of category:250 pct of all type plays:29 avg dist:8 dist var:5 Turnover pct:0
+| | | | Short Pass Middle: pct of category:166 pct of all type plays:20 avg dist:6 dist var:5 Turnover pct:250
+| | | | Short Pass Left: pct of category:166 pct of all type plays:16 avg dist:6 dist var:6 Turnover pct:0
+| | | | Deep Pass Right: pct of category:41 pct of all type plays:20 avg dist:0 dist var:0 Turnover pct:1000
+| | | | Deep Pass Middle: pct of category:125 pct of all type plays:66 avg dist:0 dist var:0 Turnover pct:0
+| | | | Deep Pass Left: pct of category:166 pct of all type plays:86 avg dist:5 dist var:8 Turnover pct:0
+| | | Value:4
+| | |   Run Right: pct of category:47 pct of all type plays:4 avg dist:10 dist var:0 Turnover pct:0
+| | |   Short Pass Left: pct of category:47 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+| | |   Field Goal Attempt: pct of category:142 pct of all type plays:81 avg dist:38 dist var:8 Turnover pct:0
+| | |   Punt: pct of category:761 pct of all type plays:213 avg dist:42 dist var:7 Turnover pct:0
+| | Value:four to ten yards
+| | | Split: down_number
+| | | Value:1
+| | | | Run Left: pct of category:248 pct of all type plays:481 avg dist:4 dist var:3 Turnover pct:0
+| | | | Run Up Middle: pct of category:100 pct of all type plays:403 avg dist:3 dist var:3 Turnover pct:0
+| | | | Run Right: pct of category:213 pct of all type plays:482 avg dist:5 dist var:5 Turnover pct:10
+| | | | Short Pass Right: pct of category:113 pct of all type plays:253 avg dist:7 dist var:8 Turnover pct:38
+| | | | Short Pass Middle: pct of category:106 pct of all type plays:256 avg dist:7 dist var:7 Turnover pct:20
+| | | | Short Pass Left: pct of category:124 pct of all type plays:241 avg dist:6 dist var:10 Turnover pct:35
+| | | | Deep Pass Right: pct of category:28 pct of all type plays:270 avg dist:12 dist var:16 Turnover pct:153
+| | | | Deep Pass Middle: pct of category:34 pct of all type plays:355 avg dist:10 dist var:13 Turnover pct:125
+| | | | Deep Pass Left: pct of category:30 pct of all type plays:304 avg dist:7 dist var:15 Turnover pct:0
+| | | Value:2
+| | | | Run Left: pct of category:182 pct of all type plays:164 avg dist:4 dist var:4 Turnover pct:25
+| | | | Run Up Middle: pct of category:93 pct of all type plays:175 avg dist:5 dist var:4 Turnover pct:50
+| | | | Run Right: pct of category:126 pct of all type plays:133 avg dist:4 dist var:3 Turnover pct:37
+| | | | Short Pass Right: pct of category:144 pct of all type plays:151 avg dist:5 dist var:10 Turnover pct:0
+| | | | Short Pass Middle: pct of category:177 pct of all type plays:198 avg dist:5 dist var:6 Turnover pct:52
+| | | | Short Pass Left: pct of category:196 pct of all type plays:177 avg dist:5 dist var:6 Turnover pct:23
+| | | | Deep Pass Right: pct of category:51 pct of all type plays:229 avg dist:10 dist var:13 Turnover pct:0
+| | | | Deep Pass Middle: pct of category:9 pct of all type plays:44 avg dist:12 dist var:12 Turnover pct:0
+| | | | Deep Pass Left: pct of category:18 pct of all type plays:86 avg dist:14 dist var:15 Turnover pct:0
+| | | Value:3
+| | | | Run Left: pct of category:10 pct of all type plays:4 avg dist:9 dist var:0 Turnover pct:0
+| | | | Run Up Middle: pct of category:20 pct of all type plays:17 avg dist:2 dist var:1 Turnover pct:0
+| | | | Run Right: pct of category:80 pct of all type plays:39 avg dist:8 dist var:4 Turnover pct:0
+| | | | Short Pass Right: pct of category:181 pct of all type plays:87 avg dist:5 dist var:6 Turnover pct:0
+| | | | Short Pass Middle: pct of category:242 pct of all type plays:125 avg dist:5 dist var:6 Turnover pct:0
+| | | | Short Pass Left: pct of category:282 pct of all type plays:118 avg dist:6 dist var:7 Turnover pct:0
+| | | | Deep Pass Right: pct of category:80 pct of all type plays:166 avg dist:12 dist var:22 Turnover pct:0
+| | | | Deep Pass Middle: pct of category:50 pct of all type plays:111 avg dist:11 dist var:23 Turnover pct:200
+| | | | Deep Pass Left: pct of category:50 pct of all type plays:108 avg dist:0 dist var:1 Turnover pct:0
+| | | Value:4
+| | |   Run Left: pct of category:22 pct of all type plays:4 avg dist:-1 dist var:0 Turnover pct:0
+| | |   Deep Pass Right: pct of category:22 pct of all type plays:20 avg dist:0 dist var:0 Turnover pct:0
+| | |   Field Goal Attempt: pct of category:227 pct of all type plays:270 avg dist:33 dist var:12 Turnover pct:0
+| | |   Punt: pct of category:727 pct of all type plays:426 avg dist:41 dist var:9 Turnover pct:0
+| | Value:one to four yards
+| | | Split: down_number
+| | | Value:2
+| | | | Run Left: pct of category:279 pct of all type plays:80 avg dist:3 dist var:3 Turnover pct:0
+| | | | Run Up Middle: pct of category:88 pct of all type plays:52 avg dist:10 dist var:9 Turnover pct:0
+| | | | Run Right: pct of category:235 pct of all type plays:78 avg dist:3 dist var:2 Turnover pct:0
+| | | | Short Pass Right: pct of category:117 pct of all type plays:39 avg dist:6 dist var:4 Turnover pct:0
+| | | | Short Pass Middle: pct of category:44 pct of all type plays:15 avg dist:12 dist var:11 Turnover pct:0
+| | | | Short Pass Left: pct of category:117 pct of all type plays:33 avg dist:8 dist var:8 Turnover pct:0
+| | | | Deep Pass Right: pct of category:29 pct of all type plays:41 avg dist:14 dist var:14 Turnover pct:0
+| | | | Deep Pass Middle: pct of category:73 pct of all type plays:111 avg dist:23 dist var:14 Turnover pct:0
+| | | | Deep Pass Left: pct of category:14 pct of all type plays:21 avg dist:0 dist var:0 Turnover pct:0
+| | | Value:3
+| | | | Run Left: pct of category:40 pct of all type plays:8 avg dist:9 dist var:5 Turnover pct:0
+| | | | Run Up Middle: pct of category:80 pct of all type plays:35 avg dist:5 dist var:3 Turnover pct:0
+| | | | Run Right: pct of category:120 pct of all type plays:29 avg dist:7 dist var:6 Turnover pct:0
+| | | | Short Pass Right: pct of category:240 pct of all type plays:58 avg dist:5 dist var:10 Turnover pct:0
+| | | | Short Pass Middle: pct of category:60 pct of all type plays:15 avg dist:8 dist var:6 Turnover pct:0
+| | | | Short Pass Left: pct of category:340 pct of all type plays:72 avg dist:9 dist var:11 Turnover pct:0
+| | | | Deep Pass Right: pct of category:60 pct of all type plays:62 avg dist:12 dist var:8 Turnover pct:0
+| | | | Deep Pass Middle: pct of category:20 pct of all type plays:22 avg dist:35 dist var:0 Turnover pct:0
+| | | | Deep Pass Left: pct of category:40 pct of all type plays:43 avg dist:0 dist var:0 Turnover pct:0
+| | | Value:4
+| | |   Short Pass Right: pct of category:50 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+| | |   Short Pass Left: pct of category:150 pct of all type plays:12 avg dist:14 dist var:8 Turnover pct:0
+| | |   Field Goal Attempt: pct of category:100 pct of all type plays:54 avg dist:22 dist var:22 Turnover pct:0
+| | |   Punt: pct of category:700 pct of all type plays:186 avg dist:45 dist var:8 Turnover pct:0
+| | Value:less than one yard
+| |   Split: down_number
+| |   Value:2
+| |   | Run Left: pct of category:200 pct of all type plays:16 avg dist:4 dist var:1 Turnover pct:0
+| |   | Run Up Middle: pct of category:300 pct of all type plays:52 avg dist:1 dist var:3 Turnover pct:0
+| |   | Run Right: pct of category:150 pct of all type plays:14 avg dist:8 dist var:2 Turnover pct:0
+| |   | Short Pass Right: pct of category:150 pct of all type plays:14 avg dist:6 dist var:1 Turnover pct:0
+| |   | Short Pass Middle: pct of category:100 pct of all type plays:10 avg dist:8 dist var:8 Turnover pct:0
+| |   | Short Pass Left: pct of category:50 pct of all type plays:4 avg dist:19 dist var:0 Turnover pct:0
+| |   | Deep Pass Right: pct of category:50 pct of all type plays:20 avg dist:36 dist var:0 Turnover pct:0
+| |   Value:3
+| |   | Run Left: pct of category:322 pct of all type plays:42 avg dist:4 dist var:6 Turnover pct:0
+| |   | Run Up Middle: pct of category:193 pct of all type plays:52 avg dist:2 dist var:1 Turnover pct:0
+| |   | Run Right: pct of category:161 pct of all type plays:24 avg dist:2 dist var:3 Turnover pct:0
+| |   | Short Pass Right: pct of category:129 pct of all type plays:19 avg dist:3 dist var:3 Turnover pct:0
+| |   | Short Pass Middle: pct of category:161 pct of all type plays:26 avg dist:17 dist var:26 Turnover pct:0
+| |   | Deep Pass Left: pct of category:32 pct of all type plays:21 avg dist:0 dist var:0 Turnover pct:1000
+| |   Value:4
+| |     Run Left: pct of category:333 pct of all type plays:21 avg dist:2 dist var:3 Turnover pct:0
+| |     Run Up Middle: pct of category:66 pct of all type plays:8 avg dist:3 dist var:0 Turnover pct:0
+| |     Run Right: pct of category:133 pct of all type plays:9 avg dist:2 dist var:0 Turnover pct:0
+| |     Punt: pct of category:466 pct of all type plays:93 avg dist:48 dist var:7 Turnover pct:0
+| Value:scoring range, opponent red zone
+|   Split: distance_needed
+|   Value:four to ten yards
+|   | Split: down_number
+|   | Value:1
+|   | | Run Left: pct of category:235 pct of all type plays:16 avg dist:0 dist var:1 Turnover pct:0
+|   | | Run Up Middle: pct of category:117 pct of all type plays:17 avg dist:2 dist var:1 Turnover pct:0
+|   | | Run Right: pct of category:294 pct of all type plays:24 avg dist:2 dist var:2 Turnover pct:0
+|   | | Short Pass Right: pct of category:176 pct of all type plays:14 avg dist:-2 dist var:2 Turnover pct:0
+|   | | Short Pass Left: pct of category:176 pct of all type plays:12 avg dist:0 dist var:1 Turnover pct:0
+|   | Value:2
+|   | | Run Left: pct of category:280 pct of all type plays:29 avg dist:4 dist var:3 Turnover pct:0
+|   | | Run Up Middle: pct of category:80 pct of all type plays:17 avg dist:4 dist var:1 Turnover pct:0
+|   | | Run Right: pct of category:80 pct of all type plays:9 avg dist:3 dist var:0 Turnover pct:0
+|   | | Short Pass Right: pct of category:360 pct of all type plays:43 avg dist:4 dist var:3 Turnover pct:222
+|   | | Short Pass Middle: pct of category:160 pct of all type plays:20 avg dist:3 dist var:3 Turnover pct:0
+|   | | Short Pass Left: pct of category:40 pct of all type plays:4 avg dist:8 dist var:0 Turnover pct:0
+|   | Value:3
+|   | | Short Pass Right: pct of category:333 pct of all type plays:14 avg dist:5 dist var:4 Turnover pct:0
+|   | | Short Pass Middle: pct of category:333 pct of all type plays:15 avg dist:1 dist var:5 Turnover pct:0
+|   | | Short Pass Left: pct of category:222 pct of all type plays:8 avg dist:0 dist var:0 Turnover pct:0
+|   | | Deep Pass Middle: pct of category:111 pct of all type plays:22 avg dist:-9 dist var:0 Turnover pct:0
+|   | Value:4
+|   |   Short Pass Left: pct of category:166 pct of all type plays:4 avg dist:6 dist var:0 Turnover pct:0
+|   |   Field Goal Attempt: pct of category:833 pct of all type plays:135 avg dist:25 dist var:1 Turnover pct:0
+|   Value:one to four yards
+|   | Split: down_number
+|   | Value:1
+|   | | Run Up Middle: pct of category:200 pct of all type plays:17 avg dist:2 dist var:1 Turnover pct:0
+|   | | Run Right: pct of category:400 pct of all type plays:19 avg dist:1 dist var:2 Turnover pct:0
+|   | | Short Pass Right: pct of category:100 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+|   | | Short Pass Middle: pct of category:200 pct of all type plays:10 avg dist:1 dist var:1 Turnover pct:0
+|   | | Short Pass Left: pct of category:100 pct of all type plays:4 avg dist:4 dist var:0 Turnover pct:0
+|   | Value:2
+|   | | Run Left: pct of category:428 pct of all type plays:12 avg dist:2 dist var:0 Turnover pct:0
+|   | | Run Right: pct of category:428 pct of all type plays:14 avg dist:2 dist var:0 Turnover pct:0
+|   | | Short Pass Left: pct of category:142 pct of all type plays:4 avg dist:4 dist var:0 Turnover pct:0
+|   | Value:3
+|   | | Short Pass Right: pct of category:333 pct of all type plays:9 avg dist:1 dist var:1 Turnover pct:0
+|   | | Short Pass Middle: pct of category:333 pct of all type plays:10 avg dist:2 dist var:2 Turnover pct:0
+|   | | Short Pass Left: pct of category:333 pct of all type plays:8 avg dist:2 dist var:0 Turnover pct:0
+|   | Value:4
+|   |   Field Goal Attempt: pct of category:1000 pct of all type plays:108 avg dist:22 dist var:2 Turnover pct:0
+|   Value:less than one yard
+|     Split: down_number
+|     Value:1
+|     | Run Left: pct of category:272 pct of all type plays:12 avg dist:0 dist var:0 Turnover pct:0
+|     | Run Up Middle: pct of category:90 pct of all type plays:8 avg dist:0 dist var:0 Turnover pct:0
+|     | Run Right: pct of category:363 pct of all type plays:19 avg dist:0 dist var:0 Turnover pct:0
+|     | Short Pass Right: pct of category:181 pct of all type plays:9 avg dist:0 dist var:0 Turnover pct:0
+|     | Short Pass Middle: pct of category:90 pct of all type plays:5 avg dist:1 dist var:0 Turnover pct:0
+|     Value:2
+|     | Run Left: pct of category:285 pct of all type plays:8 avg dist:0 dist var:0 Turnover pct:0
+|     | Run Up Middle: pct of category:428 pct of all type plays:26 avg dist:0 dist var:0 Turnover pct:0
+|     | Run Right: pct of category:142 pct of all type plays:4 avg dist:-1 dist var:0 Turnover pct:0
+|     | Short Pass Middle: pct of category:142 pct of all type plays:5 avg dist:1 dist var:0 Turnover pct:0
+|     Value:3
+|     | Run Left: pct of category:500 pct of all type plays:8 avg dist:0 dist var:0 Turnover pct:0
+|     | Run Right: pct of category:250 pct of all type plays:4 avg dist:2 dist var:0 Turnover pct:0
+|     | Short Pass Left: pct of category:250 pct of all type plays:4 avg dist:1 dist var:0 Turnover pct:0
+|     Value:4
+|       Run Left: pct of category:1000 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+Value:Inside two minute warning
+  Split: field_location
+  Value:backed up, own red zone
+  | Run Right: pct of category:333 pct of all type plays:4 avg dist:9 dist var:0 Turnover pct:0
+  | Short Pass Right: pct of category:500 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+  | Short Pass Middle: pct of category:500 pct of all type plays:5 avg dist:18 dist var:0 Turnover pct:0
+  Value:between red zones
+  | Split: distance_needed
+  | Value:over twenty yards
+  | | Short Pass Left: pct of category:250 pct of all type plays:4 avg dist:-1 dist var:0 Turnover pct:0
+  | | Deep Pass Right: pct of category:250 pct of all type plays:20 avg dist:0 dist var:0 Turnover pct:0
+  | | Field Goal Attempt: pct of category:250 pct of all type plays:27 avg dist:0 dist var:0 Turnover pct:0
+  | | Punt: pct of category:250 pct of all type plays:13 avg dist:43 dist var:0 Turnover pct:0
+  | Value:ten to twenty yards
+  | | Split: down_number
+  | | Value:1
+  | | | Short Pass Middle: pct of category:1000 pct of all type plays:5 avg dist:31 dist var:0 Turnover pct:0
+  | | Value:2
+  | | | Short Pass Right: pct of category:1000 pct of all type plays:4 avg dist:13 dist var:0 Turnover pct:0
+  | | Value:3
+  | | | Short Pass Right: pct of category:666 pct of all type plays:9 avg dist:0 dist var:0 Turnover pct:500
+  | | | Deep Pass Middle: pct of category:333 pct of all type plays:22 avg dist:18 dist var:0 Turnover pct:0
+  | | Value:4
+  | |   Field Goal Attempt: pct of category:500 pct of all type plays:27 avg dist:34 dist var:0 Turnover pct:0
+  | |   Punt: pct of category:500 pct of all type plays:13 avg dist:0 dist var:0 Turnover pct:1000
+  | Value:four to ten yards
+  | | Split: down_number
+  | | Value:1
+  | | | Run Left: pct of category:17 pct of all type plays:4 avg dist:18 dist var:0 Turnover pct:0
+  | | | Run Right: pct of category:17 pct of all type plays:4 avg dist:5 dist var:0 Turnover pct:0
+  | | | Short Pass Right: pct of category:160 pct of all type plays:43 avg dist:7 dist var:7 Turnover pct:111
+  | | | Short Pass Middle: pct of category:250 pct of all type plays:73 avg dist:10 dist var:7 Turnover pct:0
+  | | | Short Pass Left: pct of category:285 pct of all type plays:67 avg dist:6 dist var:5 Turnover pct:0
+  | | | Deep Pass Right: pct of category:53 pct of all type plays:62 avg dist:0 dist var:0 Turnover pct:0
+  | | | Deep Pass Middle: pct of category:89 pct of all type plays:111 avg dist:13 dist var:14 Turnover pct:0
+  | | | Deep Pass Left: pct of category:107 pct of all type plays:130 avg dist:17 dist var:12 Turnover pct:166
+  | | | Field Goal Attempt: pct of category:17 pct of all type plays:27 avg dist:43 dist var:0 Turnover pct:0
+  | | Value:2
+  | | | Run Left: pct of category:86 pct of all type plays:8 avg dist:1 dist var:1 Turnover pct:0
+  | | | Run Up Middle: pct of category:43 pct of all type plays:8 avg dist:10 dist var:0 Turnover pct:0
+  | | | Run Right: pct of category:86 pct of all type plays:9 avg dist:3 dist var:1 Turnover pct:0
+  | | | Short Pass Right: pct of category:304 pct of all type plays:34 avg dist:6 dist var:6 Turnover pct:0
+  | | | Short Pass Middle: pct of category:173 pct of all type plays:20 avg dist:8 dist var:7 Turnover pct:250
+  | | | Short Pass Left: pct of category:173 pct of all type plays:16 avg dist:0 dist var:1 Turnover pct:250
+  | | | Deep Pass Right: pct of category:43 pct of all type plays:20 avg dist:29 dist var:0 Turnover pct:0
+  | | | Deep Pass Left: pct of category:86 pct of all type plays:43 avg dist:0 dist var:0 Turnover pct:0
+  | | Value:3
+  | | | Short Pass Middle: pct of category:142 pct of all type plays:5 avg dist:46 dist var:0 Turnover pct:0
+  | | | Short Pass Left: pct of category:285 pct of all type plays:8 avg dist:7 dist var:1 Turnover pct:0
+  | | | Deep Pass Middle: pct of category:285 pct of all type plays:44 avg dist:-3 dist var:3 Turnover pct:500
+  | | | Deep Pass Left: pct of category:142 pct of all type plays:21 avg dist:0 dist var:0 Turnover pct:0
+  | | | Field Goal Attempt: pct of category:142 pct of all type plays:27 avg dist:30 dist var:0 Turnover pct:0
+  | | Value:4
+  | |   Short Pass Left: pct of category:333 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+  | |   Field Goal Attempt: pct of category:333 pct of all type plays:27 avg dist:40 dist var:0 Turnover pct:0
+  | |   Punt: pct of category:333 pct of all type plays:13 avg dist:48 dist var:0 Turnover pct:0
+  | Value:one to four yards
+  | | Split: down_number
+  | | Value:2
+  | | | Run Left: pct of category:166 pct of all type plays:4 avg dist:3 dist var:0 Turnover pct:0
+  | | | Short Pass Middle: pct of category:500 pct of all type plays:15 avg dist:3 dist var:4 Turnover pct:0
+  | | | Short Pass Left: pct of category:166 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+  | | | Field Goal Attempt: pct of category:166 pct of all type plays:27 avg dist:0 dist var:0 Turnover pct:0
+  | | Value:3
+  | | | Run Left: pct of category:250 pct of all type plays:8 avg dist:5 dist var:0 Turnover pct:0
+  | | | Run Right: pct of category:125 pct of all type plays:4 avg dist:4 dist var:0 Turnover pct:0
+  | | | Short Pass Right: pct of category:125 pct of all type plays:4 avg dist:14 dist var:0 Turnover pct:0
+  | | | Short Pass Middle: pct of category:125 pct of all type plays:5 avg dist:7 dist var:0 Turnover pct:0
+  | | | Short Pass Left: pct of category:375 pct of all type plays:12 avg dist:1 dist var:1 Turnover pct:0
+  | | Value:4
+  | |   Short Pass Left: pct of category:333 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:1000
+  | |   Field Goal Attempt: pct of category:666 pct of all type plays:54 avg dist:14 dist var:14 Turnover pct:0
+  | Value:less than one yard
+  |   Run Left: pct of category:142 pct of all type plays:4 avg dist:3 dist var:0 Turnover pct:0
+  |   Run Up Middle: pct of category:142 pct of all type plays:8 avg dist:5 dist var:0 Turnover pct:0
+  |   Short Pass Right: pct of category:428 pct of all type plays:14 avg dist:6 dist var:5 Turnover pct:0
+  |   Short Pass Middle: pct of category:333 pct of all type plays:5 avg dist:13 dist var:0 Turnover pct:0
+  |   Deep Pass Left: pct of category:333 pct of all type plays:21 avg dist:0 dist var:0 Turnover pct:0
+  Value:scoring range, opponent red zone
+    Split: distance_needed
+    Value:four to ten yards
+    | Short Pass Right: pct of category:250 pct of all type plays:4 avg dist:6 dist var:0 Turnover pct:0
+    | Short Pass Left: pct of category:500 pct of all type plays:8 avg dist:0 dist var:0 Turnover pct:0
+    | Field Goal Attempt: pct of category:250 pct of all type plays:27 avg dist:28 dist var:0 Turnover pct:0
+    Value:one to four yards
+    | Run Left: pct of category:200 pct of all type plays:4 avg dist:1 dist var:0 Turnover pct:0
+    | Short Pass Left: pct of category:400 pct of all type plays:8 avg dist:2 dist var:2 Turnover pct:0
+    | Field Goal Attempt: pct of category:400 pct of all type plays:54 avg dist:24 dist var:4 Turnover pct:0
+    Value:less than one yard
+      Split: down_number
+      Value:1
+      | Run Up Middle: pct of category:1000 pct of all type plays:8 avg dist:0 dist var:0 Turnover pct:0
+      Value:2
+      | Run Left: pct of category:500 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+      | Short Pass Left: pct of category:500 pct of all type plays:4 avg dist:0 dist var:0 Turnover pct:0
+      Value:3
+        Run Up Middle: pct of category:333 pct of all type plays:8 avg dist:3 dist var:0 Turnover pct:0
+        Run Right: pct of category:666 pct of all type plays:9 avg dist:0 dist var:1 Turnover pct:0
+
